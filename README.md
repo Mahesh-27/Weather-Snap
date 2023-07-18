@@ -1,1 +1,2 @@
-# weather_app
+# weather_snap
+my first weather forcasting app ..
